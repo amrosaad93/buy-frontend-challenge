@@ -20,5 +20,11 @@ In the project root, run:
 ```bash
 npm install
 
+```
+
+## Run Development Server
+
+```bash
+npm run dev
 
 ```
